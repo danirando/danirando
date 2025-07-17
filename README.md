@@ -6,7 +6,7 @@ Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo di applic
 
 ## 💻 Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL
 - **Tools:** Git, GitHub, Postman
