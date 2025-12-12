@@ -1,13 +1,13 @@
 # 👋 Ciao, sono Daniele Rando
 
-Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo di applicazioni web performanti e scalabili.
+Sono un Junior Full Stack Web Developer appassionato di tecnologia e sviluppo di applicazioni web performanti e scalabili.
 
 ---
 
 ## 💻 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
-- **Backend:** Node.js, Express.js, Php, Laravel
+- **Backend:** Node.js, Express.js, PHP, Laravel
 - **Database:** MySQL
 - **Tools:** Git, GitHub, Postman, MySql Workbench
 
