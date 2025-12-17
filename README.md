@@ -9,7 +9,7 @@ Sono un Junior Full Stack Web Developer appassionato di tecnologia e sviluppo di
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 - **Backend:** Node.js, Express.js, PHP, Laravel
 - **Database:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub, Postman, MySql Workbench
+- **Tools:** Antigravity, VScode, Cursor, Git, GitHub, Postman, MySql Workbench
 
 ---
 
