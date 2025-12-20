@@ -9,13 +9,13 @@ Sono un Junior Full Stack Web Developer appassionato di tecnologia e sviluppo di
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 - **Backend:** Node.js, Express.js, PHP, Laravel
 - **Database:** MySQL, PostgreSQL
-- **Tools:** Antigravity, VScode, Cursor, Git, GitHub, Postman, MySql Workbench
+- **Tools:** Antigravity, VScode, Cursor, GitHub, DBeaver, pgAdmin 4, Postman, MySql Workbench
 
 ---
 
 ## 📫 Contatti
 
-- **LinkedIn:** [linkedin.com/in/danirando](https://www.linkedin.com/in/danirando/)
+- **LinkedIn:** https://www.linkedin.com/in/danirando/
 - **Email:** danielerando@tiscali.it
 
 ---
