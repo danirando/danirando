@@ -1,6 +1,6 @@
-# 👋 Ciao, sono Daniele Rando
-
 Sono un Junior Full Stack Web Developer appassionato di tecnologia e sviluppo di applicazioni web performanti e scalabili.
+Ho solide competenze frontend e backend. 
+In costante aggiornamento con i nuovi strumenti nell'ambito dello sviluppo web.
 
 ---
 
