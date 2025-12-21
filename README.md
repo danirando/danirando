@@ -9,7 +9,7 @@ In costante aggiornamento con i nuovi strumenti nell'ambito dello sviluppo web.
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 - **Backend:** Node.js, Express.js, PHP, Laravel
 - **Database:** MySQL, PostgreSQL
-- **Tools:** Antigravity, VScode, Cursor, GitHub, DBeaver, pgAdmin 4, Postman, MySql Workbench
+- **Tools:** Antigravity, VScode, Cursor, GitHub, DBeaver, pgAdmin 4, Postman, MySql Workbench, MAMP
 
 ---
 
