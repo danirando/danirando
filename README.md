@@ -6,10 +6,10 @@ In costante aggiornamento con i nuovi strumenti nell'ambito dello sviluppo web.
 
 ## 💻 Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript (ES6+), React.js
 - **Backend:** Node.js, Express.js, PHP, Laravel
 - **Database:** MySQL, PostgreSQL
-- **Tools:** Antigravity, VScode, Cursor, GitHub, DBeaver, pgAdmin 4, Postman, MySql Workbench, MAMP
+- **Tools:** Antigravity, VScode, Cursor, GitHub, DBeaver, pgAdmin 4, Postman, MySql Workbench, MAMP, Figma, Canva
 
 ---
 
