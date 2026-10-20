@@ -15,10 +15,4 @@ In costante aggiornamento con i nuovi strumenti nell'ambito dello sviluppo web.
 
 ## 📫 Contatti
 
-- **LinkedIn:** https://www.linkedin.com/in/danirando/
 - **Email:** danielerando@tiscali.it
-
----
-
-> Sempre aperto a nuove collaborazioni, progetti freelance e opportunità di crescita professionale.  
-> Non esitare a contattarmi!
